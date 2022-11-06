@@ -1,0 +1,13 @@
+[
+    {
+        "name": "junior web development",
+        "imageUrl": "https://www.shutterstock.com/image-vector/web-developer-job-vacancy-template-600w-1596286912.jpg",
+        "category": "web development",
+        "description": "Lorem ipsum, dolor sit amet consectetur adipisicing elit. Ad magnam temporibus repudiandae quibusdam adipisci voluptates soluta quos repellendus, quam molestiae saepe, quisquam vel eveniet rem, illo recusandae eligendi cumque quae? Eligendi, illum similique veritatis porro perspiciatis soluta sunt quod dolores quidem, quisquam expedita autem, beatae officiis voluptates molestiae ipsum incidunt",
+        "jobType": "remote",
+        "location": "dhaka",
+        "salary": 80000,
+        "jobStatus": "available"
+    },
+    {}
+]
